@@ -1,5 +1,4 @@
 # Census-Income-Prediction
-Census Income Prediction Project
 This project focuses on predicting whether an individual's income exceeds $50K/year using U.S. Census data. Key aspects include:
   - Data analysis of census data, including demographic features and income distribution.
   - Data preparation by handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
